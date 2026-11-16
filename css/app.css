@@ -26,6 +26,9 @@
     height: 100vh;
     right: -420px;
     background: #f00;
+    padding-left: 42px;
+    padding-top: 100px;
+    font-size: 1.6em;
 }
 body {
     font-size: 1.6em;
