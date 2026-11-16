@@ -22,4 +22,11 @@ nav {
     border-top: 1px solid #333;
     color: #333;
     font-weight: 700;
+    text-align: center;
+    padding-top: 7px;
+}
+a {
+  text-decoration: none;
+  font-size: 1.3em;
+  margin: 0 23px;
 }
