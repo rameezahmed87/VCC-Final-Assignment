@@ -21,10 +21,14 @@ nav {
     background: #fff;
     border-top: 1px solid #333;
     color: #333;
-    font-weight: 700;
     text-align: center;
-    padding-top: 7px;
+    padding-top: 13px;
+    font-size: 1.6em;
+    font-family: "Limelight", sans-serif;
+    font-weight: 700;
+    font-style: normal;
 }
+
 a {
   text-decoration: none;
   font-size: 1.3em;
@@ -50,8 +54,9 @@ section:nth-child(even) {
 footer {
     width: 100%;
     height: 150px;
-    background: #222;
+    background: #000;
     color: #333;
     font-size: .9em;   
     text-align: center;
+    padding-top: 13px;
 }
